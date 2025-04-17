@@ -19,4 +19,4 @@ for word in lines:
 
     if stack: # 다 돌았는데 뭐가 남아있으면
         is_vaild = False # False
-    print("Yes" if is_vaild else "No")
+    print("YES" if is_vaild else "NO")
